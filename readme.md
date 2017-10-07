@@ -2,7 +2,7 @@
 
 This project is a companion tutorial to the Black Label Web Design blog post "Build It Yourself." The purpose of the post is to walk readers through developing their problem solving skills while creating new features instead of jumping straight for the plugins. The post uses an image gallery as an example, this is a provided code example.
 
-[View The Demo Here](#demo)
+[View The Demo Here](https://blwd.github.io/jsPhotoGal/)
 
 - [Overview](#overview)
 - [Functionality](#functionality)
